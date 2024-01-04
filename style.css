@@ -59,8 +59,8 @@ button {
 }
 
 button.active {
-    background-color: #ededed;
-    color: #ededed;
+    background-color: #a9a9a9;
+    color: #222;
 }
 
 .size-value {
