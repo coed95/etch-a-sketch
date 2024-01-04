@@ -4,8 +4,8 @@ html {
 }
 
 body {
-    background-color: #ededed;
-    color: #222;
+    background-color: #222;
+    color: #ededed;
     font-family: "Roboto", sans-serif;
     margin-bottom: 100px;
 }
@@ -14,7 +14,7 @@ button,
 input {
     width: 100%;
     border: none;
-    color: inherit;
+    color: #222;
     font-family: inherit;
     font-size: inherit;
     cursor: pointer;
@@ -54,12 +54,12 @@ input {
 
 button {
     padding: 10px 20px;
-    border: 1px solid #222;
+    border: 1px solid #ededed;
     border-radius: 5px;
 }
 
 button.active {
-    background-color: #222;
+    background-color: #ededed;
     color: #ededed;
 }
 
